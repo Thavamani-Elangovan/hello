@@ -1,0 +1,24 @@
+*{
+	box-sizing: border-box;
+cursor: pointer;
+font-family: cursive;
+background-size: cover;
+margin-top: 3px;
+}
+.main{
+	margin-top: 0;
+	left: 30%;
+   position: absolute;
+	transform: translate(-50,-50);
+	width: 500px;
+	height: 300px;
+	text-align: center;
+		} 
+		h1{text-align: center;}
+body{
+	background-color: greenyellow;
+}
+.name{
+	background-color: whitesmoke;
+}
+button:hover{background: blueviolet;}
